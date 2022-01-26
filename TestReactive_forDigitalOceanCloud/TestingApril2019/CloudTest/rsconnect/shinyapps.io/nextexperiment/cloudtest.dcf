@@ -1,0 +1,10 @@
+name: cloudtest
+title:
+username:
+account: nextexperiment
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 970678
+bundleId: 2377998
+url: https://nextexperiment.shinyapps.io/cloudtest/
+when: 1567438910.00295

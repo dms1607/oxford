@@ -1,0 +1,19 @@
+Es facilisimo poner algo en la nube de shinyapps.io
+
+Todas las instrucciones estan en:
+
+https://docs.rstudio.com/shinyapps.io/getting-started.html#deploying-a-sample-application
+
+
+Paso 1 - separar el codigo entre el cuerpo de la web (UI.R) y el codigo de servidor (server.R).
+
+Replicar las librerias cargadas en cada uno de estos ficheros.
+
+Paso 2 - hacer esto desde el mismo directorio:
+
+> library(rsconnect)
+> deployApp()
+
+Y te cargara todo en tu cuenta de shinyapps.io y lo abrira en el navegador.
+
+FIN
