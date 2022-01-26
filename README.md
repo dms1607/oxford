@@ -9,4 +9,6 @@ Files:
 
 -shinyInterface_local.R: takes the result of running the entire analytical pipeline (an example of which is pipeline_RData, which can be used directly) and produces a visual interface displaying all the information.
 
+-the folder TestReactive_forDigitalOceanCloud/ contains the implementation in the cloud (Digital Ocean)
+
 DMS
